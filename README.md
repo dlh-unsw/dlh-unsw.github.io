@@ -1,4 +1,10 @@
-## Welcome to the Digital Learning Hub  github readme
+## Welcome to the Digital Learning Hub github readme
 
-Code from DLH examples, as well as links to documentation will be made available through this channel, and linked to from UNSW Art and Design badges. 
+The dlh-unsw home page provides links to documentation and code examples, as well as checklists and guides for loanable kits at Art & Design.
+
+The page can be found at [https://dlh-unsw.github.io/](https://dlh-unsw.github.io/)
+
+If you have any more questions, come and visit us in E110.
+
+
 
